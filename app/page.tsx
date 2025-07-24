@@ -38,7 +38,7 @@ export default function Dashboard() {
               <Brain className="w-6 h-6" />
             </div>
             <h1 className="text-3xl font-bold bg-gradient-to-r from-blue-400 to-purple-400 bg-clip-text text-transparent">
-              AI Analytics Dashboard
+              awí TORREí anal-y-isis ETICAL IA 
             </h1>
           </div>
           <p className="text-gray-400 mt-2">Monitoreo en tiempo real de tu plataforma de inteligencia artificial</p>
